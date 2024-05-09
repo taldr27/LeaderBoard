@@ -2,11 +2,9 @@
 <a name="readme-top"></a>
 
 <div align="center">
-
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>LeaderBoard Project</b></h3>
+  <h3><b>LeaderBoard</b></h3>
 
 </div>
 
@@ -28,7 +26,6 @@
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
@@ -164,12 +161,6 @@ to make it better.
 - **Do I need to be connected to the Internet?**
 
   - Yes, to be able to grab the information from the API.
-
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-I would like to thank Microverse for providing the guide to build this project.
-I would like to thank to the code reviewers for their reviews.
 
 ## 📝 License <a name="license"></a>
 
